@@ -1,2 +1,2 @@
-# yolov5-mask
+# JavaSe.Practice
 My first yolov5 practice.
