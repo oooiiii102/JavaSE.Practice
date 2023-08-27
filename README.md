@@ -1,2 +1,3 @@
 # JavaSe.Practice
-My first yolov5 practice.
+Just record the process of learning the basics of Java. 
+Welcome to criticize and correct.
